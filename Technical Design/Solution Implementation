@@ -54,9 +54,9 @@ since he has to pay a small amount of bit coin.The ultimate aim is to make it se
 using this transaction app.
 
 
-BEGINNER OF A TRANSACTION
+BEGINNING OF A TRANSACTION
 
-Our project deals with the transaction diamonds which mainly includes 8 roles from the miner to the consumer. Right from the mining 
+Our project deals with the transaction of diamonds which mainly includes 8 roles from the miner to the consumer. Right from the mining 
 stage a diamond gets it’s inputs which are to be added to the blockchain. But the miner may not be able to enter the details of the 
 diamond to the blockchaain, in that case the next role ie, shopkeeper can add the details. Likewise in each stage of transaction, 
 the second role can add the details. For instance consider the next stage, the transaction from the shopkeeper to the dealer. 
